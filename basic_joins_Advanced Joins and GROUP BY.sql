@@ -85,7 +85,7 @@ group by f.title , c.full_name ;
  
  
  
- #QUSTION  12 : Determine the customers who have rented movies from both stores (store ID 1 and store ID 2).
+ #QUSTION  14 : Determine the customers who have rented movies from both stores (store ID 1 and store ID 2).
           #     Hint: Use JOINS with rental, inventory, and customer tables and consider COUNT() and GROUP BY.
           
 #answer >>
